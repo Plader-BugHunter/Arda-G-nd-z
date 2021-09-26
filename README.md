@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Plader-BugHunter
+- 👋 Hi, I’m Arda Gündüz
 - 👀 I’m Arda
-- 🌱 I’m Cyber Security Student
+- 🌱 I’m Software Engineer Student
 - 📫 How to reach me Python
 
 <!---
